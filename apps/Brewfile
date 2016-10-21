@@ -7,11 +7,6 @@ brew 'tmux'
 brew 'mas'
 brew 'vim'
 
-# App Store applications
-mas 'Minutes', id: 406827163
-mas 'Slack', id: 803453959
-mas 'Wunderlist', id: 410628904
-
 cask 'google-chrome'
 cask 'google-japanese-ime'
 cask 'karabiner'
@@ -21,4 +16,10 @@ cask 'iterm2'
 cask 'skitch'
 cask 'unity'
 cask 'blender'
+
+# App Store applications
+# mas signin
+mas 'Minutes', id: 406827163
+mas 'Slack', id: 803453959
+mas 'Wunderlist', id: 410628904
 
