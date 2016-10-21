@@ -1,3 +1,0 @@
-[submodule "dots/.vim/bundle/repos/github.com/Shougo/dein.vim"]
-	path = dots/.vim/bundle/repos/github.com/Shougo/dein.vim
-	url = https://github.com/Shougo/dein.vim
