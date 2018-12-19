@@ -6,6 +6,7 @@ brew 'ruby-build'
 brew 'tmux'
 brew 'mas'
 brew 'vim'
+brew 'bash-completion'
 
 cask 'google-chrome'
 cask 'google-japanese-ime'

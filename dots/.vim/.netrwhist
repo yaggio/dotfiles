@@ -1,4 +1,11 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
-let g:netrw_dirhist_1='/Users/yajima'
-let g:netrw_dirhist_2='/Users/yajima/.config'
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/yajima/Desktop/MacSunaba-20140212/サンプル/5章'
+let g:netrw_dirhist_2='/Users/yajima/Desktop/MacSunaba-20140212/サンプル/7章'
+let g:netrw_dirhist_3='/Users/yajima/ans-kitchen/site-cookbooks/paul'
+let g:netrw_dirhist_4='/Users/yajima/ans-kitchen/site-cookbooks/paul/recipes'
+let g:netrw_dirhist_5='/Users/yajima/192.168.1.62'
+let g:netrw_dirhist_6='/Users/yajima/ans-kitchen/site-cookbooks'
+let g:netrw_dirhist_7='/Users/yajima/ans-kitchen'
+let g:netrw_dirhist_8='/Users/yajima/ans-kitchen/roles'
+let g:netrw_dirhist_9='/Users/yajima/ans-kitchen/nodes'
